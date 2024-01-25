@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1046921347552",
+    "firebase_url": "https://firbase-66935-default-rtdb.firebaseio.com",
+    "project_id": "firbase-66935",
+    "storage_bucket": "firbase-66935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046921347552:android:081470cdd06c33c97cab85",
+        "android_client_info": {
+          "package_name": "com.example.firbase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxiyk7MvOGZkXIzT3yPXmctrI3muyq1SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046921347552:android:78e1032ab59f263d7cab85",
+        "android_client_info": {
+          "package_name": "com.firstproject.authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxiyk7MvOGZkXIzT3yPXmctrI3muyq1SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046921347552:android:425dbee5d9151efa7cab85",
+        "android_client_info": {
+          "package_name": "com.firstproject.imagedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxiyk7MvOGZkXIzT3yPXmctrI3muyq1SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
